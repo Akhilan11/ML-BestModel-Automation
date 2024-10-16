@@ -4,4 +4,4 @@ numpy>=1.26.0  # Remove or adjust the version constraint
 scikit-learn==1.3.0
 xgboost==1.7.6
 setuptools
-pillow
+pillow==10.0.0 
