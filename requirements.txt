@@ -1,7 +1,6 @@
 streamlit==1.25.0
 pandas==2.1.1
-numpy>=1.26.0  # Remove or adjust the version constraint
+numpy==1.26.0  
 scikit-learn==1.3.0
 xgboost==1.7.6
-setuptools
 pillow==9.5.0
